@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Huria Tariq 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student</b> at COMSATS University Islamabad, Sahiwal Campus
+  <b>Software Engineering Student</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/huria-tariq-8357073ab">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:huriat944@gmail.com">
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=huriat944@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -20,7 +21,7 @@
 - 💻 Software Engineering Student
 - 🌱 Currently learning **Web Development**
 - 🔍 Love turning ideas into working software
-- 📍 Sahiwal, Punjab, Pakistan
+  
 
 ---
 
